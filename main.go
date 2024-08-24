@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	var interval float64 = 1.28
+	var interval float64 = 1.3
 	var arr []int
 
 	scanner := bufio.NewScanner(os.Stdin)

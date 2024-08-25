@@ -1,14 +1,14 @@
 # guess-it-1
 
-A program that given a number as standard input, prints out a range in which the next number provided should be
+A program that given a number as standard input, prints out a range in which the next number provided should be.
 
 ## Objectives
 
-Now that you have the math skills up and running, it is time for you to guess numbers. Find a way to implement the `math-skills` exercise into this one.
+it is time to guess numbers. Find a way to implement the `math-skills` exercise into this one.
 
 ## Instructions
 
-That is right, you must build a program that given a number as standard input, prints out a range in which the next number provided should be.
+It should be build a program that given a number as standard input, prints out a range in which the next number provided should be.
 
 The data received by the program, as always, will be presented as the following example:
 

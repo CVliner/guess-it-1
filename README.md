@@ -1,12 +1,12 @@
-# guess-it-1
+### guess-it-1
 
 A program that given a number as standard input, prints out a range in which the next number provided should be.
 
-## Objectives
+### Objectives
 
 it is time to guess numbers. Find a way to implement the `math-skills` exercise into this one.
 
-## Instructions
+### Instructions
 
 It should be build a program that given a number as standard input, prints out a range in which the next number provided should be.
 
@@ -46,7 +46,7 @@ Each of the numbers will be your standard input and the purpose of your program 
 
 As seen above, some of the ranges are not correct and some are bigger than others. As this is just an example, if you so wish, a specific range in your program can be given. That is fully up to you to decide. The intent of this exercise is to use the calculations you did in the `math-skills` exercise to guess the numbers.
 
-## Testing
+### Testing
 
 Your program will be extensively tested, so performance should be prioritized. Testing will work as follow:
 

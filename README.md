@@ -1,4 +1,4 @@
-### guess-it-1
+### Guess-it-1
 
 A program that given a number as standard input, prints out a range in which the next number provided should be.
 

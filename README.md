@@ -1,9 +1,5 @@
-### Guess-it-1
-
-A program that given a number as standard input, prints out a range in which the next number provided should be.
-
 ### Objectives
-
+A program that given a number as standard input, prints out a range in which the next number provided should be.
 it is time to guess numbers. Find a way to implement the `math-skills` exercise into this one.
 
 ### Instructions

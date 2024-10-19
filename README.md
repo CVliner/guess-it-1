@@ -44,7 +44,7 @@ As seen above, some of the ranges are not correct and some are bigger than other
 
 ### Testing
 
-Your program will be extensively tested, so performance should be prioritized. Testing will work as follow:
+Prepared program will be extensively tested, so performance should be prioritized. Testing will work as follow:
 
 If you guess correctly the range for the next given number, your score will be incremented based on the size of your range. In other words, the bigger your range is, the smaller your score will be. So we advise you to find the perfect balance between a small range and a good guess.
 
